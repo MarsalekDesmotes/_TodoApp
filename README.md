@@ -1,20 +1,11 @@
 # _TodoApp
 
 
-Kaynaklar: https://stackoverflow.com/questions/54792056/add-subtract-months-years-to-date-in-dart
+Resources: https://stackoverflow.com/questions/54792056/add-subtract-months-years-to-date-in-dart
            https://docs.flutter.dev/
 
-Açıklama: flutter ile yapılan "todo" uygulaması
+INFO: TO-DO APP USING FLUTTER.
           
-Hazırlayanlar: 
-
-Emir Gazi Kopar
-
-İbrahim Burak Yakar
-
-Berk Taha Demir
-
-Sergen Aytuğ Can
 
 
 
